@@ -7,6 +7,14 @@
     "home_page_url": "https://zewardwang.github.io",
     "items": [
         {
+            "id": "https://zewardwang.github.io/2024/04/11/new-page-test/",
+            "url": "https://zewardwang.github.io/2024/04/11/new-page-test/",
+            "title": "new page test",
+            "date_published": "2024-04-11T04:30:43.000Z",
+            "content_html": "<h1 id=\"this-is-a-new-page-test\"><a class=\"anchor\" href=\"#this-is-a-new-page-test\">#</a> this is a new page test</h1>\n<p>hello world!</p>\n",
+            "tags": []
+        },
+        {
             "id": "https://zewardwang.github.io/2024/04/11/hello-world/",
             "url": "https://zewardwang.github.io/2024/04/11/hello-world/",
             "title": "Hello World",

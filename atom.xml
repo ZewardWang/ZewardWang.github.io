@@ -8,7 +8,16 @@
     <author>
       <name>zewardwang</name>
     </author>
-    <updated>2024-04-11T04:03:26.388Z</updated>
+    <updated>2024-04-11T04:30:43.000Z</updated>
+    <entry>
+        <id>https://zewardwang.github.io/2024/04/11/new-page-test/</id>
+        <title>new page test</title>
+        <link rel="alternate" href="https://zewardwang.github.io/2024/04/11/new-page-test/"/>
+        <content type="html">&lt;h1 id=&#34;this-is-a-new-page-test&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#this-is-a-new-page-test&#34;&gt;#&lt;/a&gt; this is a new page test&lt;/h1&gt;
+&lt;p&gt;hello world!&lt;/p&gt;
+</content>
+        <updated>2024-04-11T04:30:43.000Z</updated>
+    </entry>
     <entry>
         <id>https://zewardwang.github.io/2024/04/11/hello-world/</id>
         <title>Hello World</title>
