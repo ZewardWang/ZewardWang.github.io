@@ -8,15 +8,15 @@
     <author>
       <name>zewardwang</name>
     </author>
-    <updated>2024-04-11T04:30:43.000Z</updated>
+    <updated>2024-04-11T04:34:43.000Z</updated>
     <entry>
-        <id>https://zewardwang.github.io/2024/04/11/new-page-test/</id>
-        <title>new page test</title>
-        <link rel="alternate" href="https://zewardwang.github.io/2024/04/11/new-page-test/"/>
-        <content type="html">&lt;h1 id=&#34;this-is-a-new-page-test&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#this-is-a-new-page-test&#34;&gt;#&lt;/a&gt; this is a new page test&lt;/h1&gt;
-&lt;p&gt;hello world!&lt;/p&gt;
+        <id>https://zewardwang.github.io/2024/04/11/theme-links/</id>
+        <title>theme links</title>
+        <link rel="alternate" href="https://zewardwang.github.io/2024/04/11/theme-links/"/>
+        <content type="html">&lt;p&gt;主题配置连接：&lt;a href=&#34;https://docs.kaitaku.xyz/guide/&#34;&gt;https://docs.kaitaku.xyz/guide/&lt;/a&gt;&lt;br /&gt;
+hexo Doc 链接：&lt;a href=&#34;https://hexo.io/zh-cn/docs/&#34;&gt;https://hexo.io/zh-cn/docs/&lt;/a&gt;&lt;/p&gt;
 </content>
-        <updated>2024-04-11T04:30:43.000Z</updated>
+        <updated>2024-04-11T04:34:43.000Z</updated>
     </entry>
     <entry>
         <id>https://zewardwang.github.io/2024/04/11/hello-world/</id>

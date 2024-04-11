@@ -7,11 +7,11 @@
     "home_page_url": "https://zewardwang.github.io",
     "items": [
         {
-            "id": "https://zewardwang.github.io/2024/04/11/new-page-test/",
-            "url": "https://zewardwang.github.io/2024/04/11/new-page-test/",
-            "title": "new page test",
-            "date_published": "2024-04-11T04:30:43.000Z",
-            "content_html": "<h1 id=\"this-is-a-new-page-test\"><a class=\"anchor\" href=\"#this-is-a-new-page-test\">#</a> this is a new page test</h1>\n<p>hello world!</p>\n",
+            "id": "https://zewardwang.github.io/2024/04/11/theme-links/",
+            "url": "https://zewardwang.github.io/2024/04/11/theme-links/",
+            "title": "theme links",
+            "date_published": "2024-04-11T04:34:43.000Z",
+            "content_html": "<p>主题配置连接：<a href=\"https://docs.kaitaku.xyz/guide/\">https://docs.kaitaku.xyz/guide/</a><br />\nhexo Doc 链接：<a href=\"https://hexo.io/zh-cn/docs/\">https://hexo.io/zh-cn/docs/</a></p>\n",
             "tags": []
         },
         {

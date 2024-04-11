@@ -10,15 +10,15 @@
         </author>
         <description>描述测试</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 11 Apr 2024 12:30:43 +0800</pubDate>
-        <lastBuildDate>Thu, 11 Apr 2024 12:30:43 +0800</lastBuildDate>
+        <pubDate>Thu, 11 Apr 2024 12:34:43 +0800</pubDate>
+        <lastBuildDate>Thu, 11 Apr 2024 12:34:43 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://zewardwang.github.io/2024/04/11/new-page-test/</guid>
-            <title>new page test</title>
-            <link>https://zewardwang.github.io/2024/04/11/new-page-test/</link>
-            <pubDate>Thu, 11 Apr 2024 12:30:43 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;this-is-a-new-page-test&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#this-is-a-new-page-test&#34;&gt;#&lt;/a&gt; this is a new page test&lt;/h1&gt;
-&lt;p&gt;hello world!&lt;/p&gt;
+            <guid isPermalink="true">https://zewardwang.github.io/2024/04/11/theme-links/</guid>
+            <title>theme links</title>
+            <link>https://zewardwang.github.io/2024/04/11/theme-links/</link>
+            <pubDate>Thu, 11 Apr 2024 12:34:43 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;主题配置连接：&lt;a href=&#34;https://docs.kaitaku.xyz/guide/&#34;&gt;https://docs.kaitaku.xyz/guide/&lt;/a&gt;&lt;br /&gt;
+hexo Doc 链接：&lt;a href=&#34;https://hexo.io/zh-cn/docs/&#34;&gt;https://hexo.io/zh-cn/docs/&lt;/a&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
