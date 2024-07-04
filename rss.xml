@@ -10,8 +10,25 @@
         </author>
         <description>描述测试</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 12 Apr 2024 21:17:07 +0800</pubDate>
-        <lastBuildDate>Fri, 12 Apr 2024 21:17:07 +0800</lastBuildDate>
+        <pubDate>Fri, 05 Jul 2024 00:19:53 +0800</pubDate>
+        <lastBuildDate>Fri, 05 Jul 2024 00:19:53 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://zewardwang.github.io/2024/07/05/%E6%88%98-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/</guid>
+            <title>战-开发笔记</title>
+            <link>https://zewardwang.github.io/2024/07/05/%E6%88%98-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/</link>
+            <pubDate>Fri, 05 Jul 2024 00:19:53 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;已知问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#已知问题&#34;&gt;#&lt;/a&gt; 已知问题：&lt;/h1&gt;
+&lt;h2 id=&#34;7月5日&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#7月5日&#34;&gt;#&lt;/a&gt; 7 月 5 日：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;交互逻辑：部分按钮未添加确定过程容易误操作，预计 7.6 日修改完毕&lt;/li&gt;
+&lt;li&gt;权限验证：JWT 未开发&lt;/li&gt;
+&lt;li&gt;更改头像功能开发中&lt;/li&gt;
+&lt;li&gt;更换背景功能开发中&lt;/li&gt;
+&lt;li&gt;根据分类获取作业：database 中 typeid 和 index 不同时会触发 bug，待修改&lt;/li&gt;
+&lt;li&gt;编辑已提交作业：开发中&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://zewardwang.github.io/2024/04/12/install/shokax%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/</guid>
             <title>shokax主题配置指北</title>

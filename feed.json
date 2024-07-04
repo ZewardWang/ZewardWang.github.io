@@ -7,6 +7,14 @@
     "home_page_url": "https://zewardwang.github.io",
     "items": [
         {
+            "id": "https://zewardwang.github.io/2024/07/05/%E6%88%98-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/",
+            "url": "https://zewardwang.github.io/2024/07/05/%E6%88%98-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/",
+            "title": "战-开发笔记",
+            "date_published": "2024-07-04T16:19:53.000Z",
+            "content_html": "<h1 id=\"已知问题\"><a class=\"anchor\" href=\"#已知问题\">#</a> 已知问题：</h1>\n<h2 id=\"7月5日\"><a class=\"anchor\" href=\"#7月5日\">#</a> 7 月 5 日：</h2>\n<ol>\n<li>交互逻辑：部分按钮未添加确定过程容易误操作，预计 7.6 日修改完毕</li>\n<li>权限验证：JWT 未开发</li>\n<li>更改头像功能开发中</li>\n<li>更换背景功能开发中</li>\n<li>根据分类获取作业：database 中 typeid 和 index 不同时会触发 bug，待修改</li>\n<li>编辑已提交作业：开发中</li>\n</ol>\n",
+            "tags": []
+        },
+        {
             "id": "https://zewardwang.github.io/2024/04/12/install/shokax%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/",
             "url": "https://zewardwang.github.io/2024/04/12/install/shokax%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/",
             "title": "shokax主题配置指北",
