@@ -10,8 +10,17 @@
         </author>
         <description>一个小火星人的博客</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 05 Jul 2024 00:19:53 +0800</pubDate>
-        <lastBuildDate>Fri, 05 Jul 2024 00:19:53 +0800</lastBuildDate>
+        <pubDate>Thu, 25 Jul 2024 12:44:15 +0800</pubDate>
+        <lastBuildDate>Thu, 25 Jul 2024 12:44:15 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://zewardwang.github.io/2024/07/25/visualmediasec/%E5%8F%AF%E8%A7%86%E5%AA%92%E4%BD%93%E5%AE%89%E5%85%A8-1/</guid>
+            <title>可视媒体安全-1</title>
+            <link>https://zewardwang.github.io/2024/07/25/visualmediasec/%E5%8F%AF%E8%A7%86%E5%AA%92%E4%BD%93%E5%AE%89%E5%85%A8-1/</link>
+            <category term="可视媒体安全" scheme="https://zewardwang.github.io/categories/visualmediasec/" />
+            <pubDate>Thu, 25 Jul 2024 12:44:15 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;this is a test page about visualmediasec&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://zewardwang.github.io/2024/07/05/%E6%88%98-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/</guid>
             <title>战-开发笔记</title>
