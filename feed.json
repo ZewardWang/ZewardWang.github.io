@@ -17,14 +17,6 @@
             ]
         },
         {
-            "id": "https://zewardwang.github.io/2024/07/05/%E6%88%98-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/",
-            "url": "https://zewardwang.github.io/2024/07/05/%E6%88%98-%E5%BC%80%E5%8F%91%E7%AC%94%E8%AE%B0/",
-            "title": "战-开发笔记",
-            "date_published": "2024-07-04T16:19:53.000Z",
-            "content_html": "<h1 id=\"已知问题\"><a class=\"anchor\" href=\"#已知问题\">#</a> 已知问题：</h1>\n<h2 id=\"7月5日\"><a class=\"anchor\" href=\"#7月5日\">#</a> 7 月 5 日：</h2>\n<ol>\n<li>交互逻辑：部分按钮未添加确定过程容易误操作，预计 7.6 日修改完毕</li>\n<li>权限验证：JWT 未开发</li>\n<li>更改头像功能开发中</li>\n<li>更换背景功能开发中</li>\n<li>根据分类获取作业：database 中 typeid 和 index 不同时会触发 bug，待修改</li>\n<li>编辑已提交作业：开发中</li>\n</ol>\n",
-            "tags": []
-        },
-        {
             "id": "https://zewardwang.github.io/2024/04/12/install/shokax%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/",
             "url": "https://zewardwang.github.io/2024/04/12/install/shokax%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/",
             "title": "shokax主题配置指北",
@@ -36,22 +28,14 @@
             ]
         },
         {
-            "id": "https://zewardwang.github.io/2024/04/11/typora-%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/",
-            "url": "https://zewardwang.github.io/2024/04/11/typora-%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/",
+            "id": "https://zewardwang.github.io/2024/04/11/install/typora-%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/",
+            "url": "https://zewardwang.github.io/2024/04/11/install/typora-%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/",
             "title": "typora+阿里云图床配置文件",
             "date_published": "2024-04-11T05:03:21.000Z",
             "content_html": "<h1 id=\"typorapicgo-core阿里云图床配置\"><a class=\"anchor\" href=\"#typorapicgo-core阿里云图床配置\">#</a> typora+PICGO-CORE + 阿里云图床配置</h1>\n<figure class=\"highlight json\"><figcaption data-lang=\"JSON\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"2\"></td><td><pre>  <span class=\"token property\">\"picBed\"</span><span class=\"token operator\">:</span> <span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"3\"></td><td><pre>    <span class=\"token property\">\"uploader\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"aliyun\"</span><span class=\"token punctuation\">,</span> <span class=\"token comment\">// 不变</span></pre></td></tr><tr><td data-num=\"4\"></td><td><pre>    <span class=\"token property\">\"aliyun\"</span><span class=\"token operator\">:</span> <span class=\"token punctuation\">&#123;</span></pre></td></tr><tr><td data-num=\"5\"></td><td><pre>    <span class=\"token property\">\"accessKeyId\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"\"</span><span class=\"token punctuation\">,</span> <span class=\"token comment\">// 创建 accessKey 时保留</span></pre></td></tr><tr><td data-num=\"6\"></td><td><pre>    <span class=\"token property\">\"accessKeySecret\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"\"</span><span class=\"token punctuation\">,</span> <span class=\"token comment\">// 创建 accessKey 时保留</span></pre></td></tr><tr><td data-num=\"7\"></td><td><pre>    <span class=\"token property\">\"bucket\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"\"</span><span class=\"token punctuation\">,</span> <span class=\"token comment\">// 存储空间名</span></pre></td></tr><tr><td data-num=\"8\"></td><td><pre>    <span class=\"token property\">\"area\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"\"</span><span class=\"token punctuation\">,</span> <span class=\"token comment\">// 存储区域代号</span></pre></td></tr><tr><td data-num=\"9\"></td><td><pre>    <span class=\"token property\">\"path\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"\"</span><span class=\"token punctuation\">,</span> <span class=\"token comment\">// 自定义存储路径</span></pre></td></tr><tr><td data-num=\"10\"></td><td><pre>    <span class=\"token property\">\"customUrl\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"\"</span><span class=\"token punctuation\">,</span> <span class=\"token comment\">// 自定义域名，注意要加 http:// 或者 https://</span></pre></td></tr><tr><td data-num=\"11\"></td><td><pre>    <span class=\"token property\">\"options\"</span><span class=\"token operator\">:</span> <span class=\"token string\">\"\"</span> <span class=\"token comment\">// 针对图片的一些后缀处理参数 PicGo 2.2.0+ PicGo-Core 1.4.0+</span></pre></td></tr><tr><td data-num=\"12\"></td><td><pre>    <span class=\"token punctuation\">&#125;</span></pre></td></tr><tr><td data-num=\"13\"></td><td><pre>  <span class=\"token punctuation\">&#125;</span><span class=\"token punctuation\">,</span></pre></td></tr><tr><td data-num=\"14\"></td><td><pre>  <span class=\"token property\">\"picgoPlugins\"</span><span class=\"token operator\">:</span> <span class=\"token punctuation\">&#123;</span><span class=\"token punctuation\">&#125;</span></pre></td></tr><tr><td data-num=\"15\"></td><td><pre><span class=\"token punctuation\">&#125;</span></pre></td></tr></table></figure>",
             "tags": [
                 "install"
             ]
-        },
-        {
-            "id": "https://zewardwang.github.io/2024/04/11/hello-world/",
-            "url": "https://zewardwang.github.io/2024/04/11/hello-world/",
-            "title": "Hello World",
-            "date_published": "2024-04-11T04:03:26.388Z",
-            "content_html": "<p>Welcome to <a href=\"https://hexo.io/\">Hexo</a>! This is your very first post. Check <a href=\"https://hexo.io/docs/\">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href=\"https://hexo.io/docs/troubleshooting.html\">troubleshooting</a> or you can ask me on <a href=\"https://github.com/hexojs/hexo/issues\">GitHub</a>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/writing.html\">Writing</a></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/server.html\">Server</a></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/generating.html\">Generating</a></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <a href=\"https://hexo.io/docs/one-command-deployment.html\">Deployment</a></p>\n",
-            "tags": []
         }
     ]
 }
