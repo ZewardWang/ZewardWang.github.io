@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "标题测试",
-    "subtitle": "副标题测试",
+    "title": "火星小疯子",
+    "subtitle": "L1ethe",
     "icon": "https://zewardwang.github.io/assets/favicon.ico",
-    "description": "描述测试",
+    "description": "一个小火星人的博客",
     "home_page_url": "https://zewardwang.github.io",
     "items": [
         {

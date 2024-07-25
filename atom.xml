@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zewardwang.github.io</id>
-    <title>标题测试</title>
-    <subtitle>副标题测试</subtitle>
+    <title>火星小疯子</title>
+    <subtitle>L1ethe</subtitle>
     <icon>https://zewardwang.github.io/assets/favicon.ico</icon>
     <link href="https://zewardwang.github.io" />
     <author>
-      <name>zewardwang</name>
+      <name>L1ethe</name>
     </author>
     <updated>2024-07-04T16:19:53.000Z</updated>
     <entry>

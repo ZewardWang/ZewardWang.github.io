@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>标题测试</title>
-        <subtitle>副标题测试</subtitle>
+        <title>火星小疯子</title>
+        <subtitle>L1ethe</subtitle>
         <icon>https://zewardwang.github.io/assets/favicon.ico</icon>
         <link>https://zewardwang.github.io</link>
         <author>
-          <name>zewardwang</name>
+          <name>L1ethe</name>
         </author>
-        <description>描述测试</description>
+        <description>一个小火星人的博客</description>
         <language>zh-CN</language>
         <pubDate>Fri, 05 Jul 2024 00:19:53 +0800</pubDate>
         <lastBuildDate>Fri, 05 Jul 2024 00:19:53 +0800</lastBuildDate>
